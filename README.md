@@ -1,2 +1,3 @@
 # Nigam-Project
-This is my first Git Repository
+This is my first Git Repository.
+Author - Nigam Yadav
